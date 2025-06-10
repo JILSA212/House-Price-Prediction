@@ -4,8 +4,8 @@
 This project builds a machine learning model to predict house prices using a dataset available on Kaggle. The model is developed using Python and popular libraries such as pandas, scikit-learn, and matplotlib.
 
 📊 Dataset
-The dataset used for this project is from Kaggle: \\
-https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data \\
+The dataset used for this project is from Kaggle: <br>
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data <br>
 It includes features such as area type, availability, location, size, society, etc, to predict the final sale price of a house.
 
 📁 Project Structure
